@@ -26,9 +26,6 @@ hr{
     color: lightgrey;
 }
 
-h1{
-    padding-top: 100px;
-}
 .menubar{
     overflow: hidden;
     height: 50px;
@@ -51,13 +48,17 @@ td{
     padding-top:20px;
     padding-bottom: 20px;
     font-size: 20px;
+    text-size-adjust: 20px;
 }
 
 li{
     line-height: 1.5;
     font-size: 20px;
+    text-size-adjust: 20px;
 }
 .aboutme{
+    padding-top: 10px;
+    padding-bottom: 10px;
     height:350px;
 }
 
@@ -78,10 +79,15 @@ li{
 
 h1{
     font-weight: normal;
-    font-size: 40px;
+    text-size-adjust: 40px;
+    font-size: 40px; 
+    padding-top: 70px;  
 }
+
 h2{
     color:grey;
+    text-size-adjust: 25px;
+    font-size: 25px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
