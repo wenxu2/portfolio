@@ -35,7 +35,7 @@ hr{
     overflow: hidden;
     color:#333;
     background-image: url("../img/centerimage.jpg");
-    height: 900px; 
+    height: 800px; 
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
@@ -81,7 +81,7 @@ h1{
     font-weight: normal;
     text-size-adjust: 40px;
     font-size: 40px; 
-    padding-top: 70px;  
+    padding-top: 80px;  
 }
 
 h2{
