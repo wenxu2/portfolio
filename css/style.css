@@ -38,7 +38,7 @@ h1{
     overflow: hidden;
     color:#333;
     background-image: url("../img/centerimage.jpg");
-    height: 1000px;
+    height: 1000px; 
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
@@ -114,4 +114,10 @@ p{
     color: gray;
     text-size-adjust: 15px;
     font-size: 15px;
+}
+* {
+    border: 0px solid #eee;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
