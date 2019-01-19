@@ -1,0 +1,19 @@
+{
+  "name": "portfoilo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenxu2/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenxu2/portfolio/issues"
+  },
+  "homepage": "https://github.com/wenxu2/portfolio#readme"
+}

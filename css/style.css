@@ -1,0 +1,117 @@
+img.logo{
+    overflow: hidden;
+    max-height: 35px;
+    padding-left: 20px;
+    padding-right:1px;
+    padding-top: 5px;
+}
+img.myself{
+    max-height:300px;
+    padding-left: 150px;
+    padding-right:150px;
+}
+
+img.schoolwork{
+    max-height:80px;
+    padding-left: 30px;
+    padding-right:30px;
+    padding-top:30px;
+    padding-bottom: 10px;
+}
+
+hr{
+    font-family: Arial, Helvetica, sans-serif;;
+    font-weight:normal;
+    font-style:normal;
+    color: lightgrey;
+}
+
+h1{
+    padding-top: 100px;
+}
+.menubar{
+    overflow: hidden;
+    height: 40px;
+}
+
+.centerdisplay{
+    overflow: hidden;
+    color:#333;
+    background-image: url("../img/centerimage.jpg");
+    height: 1000px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+td{
+    padding-left: 100px;
+    padding-right:100px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+li{
+    line-height: 1.5;
+    font-size: 20px;
+}
+.aboutme{
+    height:350px;
+}
+
+.work{
+    height:280px;
+
+}
+
+.award{
+    height:200px;
+    
+}
+
+.volunteer{
+    height:300px;
+
+}
+
+h1{
+    font-weight: normal;
+    font-size: 40px;
+}
+h2{
+    color:grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h2:before,
+h2:after{
+    content: '';    
+    width: 150px;    
+    height: 1px;
+    margin: 0 10px;
+    background: #ccc;  
+    display: inline-block;
+    vertical-align: middle;   
+}
+
+ul {
+    list-style: none;
+}
+
+p{
+    padding-left: 150px;
+    padding-right:150px;
+    line-height: 1.5;
+    padding-bottom: 5px;
+}
+
+.buttombar{
+    padding-top: 10px;
+    height:70px;
+    color: gray;
+    text-size-adjust: 15px;
+    font-size: 15px;
+}
